@@ -17,4 +17,4 @@ if __name__ == '__main__':
     age_in_years = int(input("Enter your age "))  # prompt the user/accepts user input
     age_in_months = 12 # variable declaration.
     answer = age_in_years*age_in_months # calculation.
-    print(age_in_years,"years is", answer, "months")  # output the result.
+    print(age_in_years,"years is", answer, "months")  # output the result. 
